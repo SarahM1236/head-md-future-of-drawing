@@ -46,10 +46,11 @@
  - NeoPixel Ring Led = Ex.diameter 8.5cm
 
 <p>Wiring</p>
-Micro-Lipo Charger for LiPoly Batt with USB Type C Jack to Arduino Nano.
-Micro-Lipo Charger for LiPoly Batt with USB Type C Jack to LiPolyBattery.
-Micro-Lipo Charger for LiPoly Batt with USB Type C Jack to Ring Led.
-Arduino Nano to Ring Led.
+
+ - Micro-Lipo Charger for LiPoly Batt with USB Type C Jack to Arduino Nano.
+ - Micro-Lipo Charger for LiPoly Batt with USB Type C Jack to LiPolyBattery.
+ - Micro-Lipo Charger for LiPoly Batt with USB Type C Jack to Ring Led.
+ - Arduino Nano to Ring Led.
 
 <p>Power</p>
 
