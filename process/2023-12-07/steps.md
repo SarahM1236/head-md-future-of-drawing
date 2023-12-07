@@ -31,17 +31,26 @@
 
  - Accelorometer
  - Button
+<p>Outputs</p>
+
+ - Vibration
+ - Neopixel Color
+
   
 <p>Dimension : Not 100% sure yet</p>
 
-Handle Diameter = 3cm
-Handle High = 42cm
-Hexagonal shape Diameter = 27cm
-
+ - Handle Diameter = 3cm
+ - Handle High = 42cm
+ - Hexagonal shape Diameter = 27cm
  - Arduino Nano = 1.8x4.4cm
  - NeoPixel Ring Led = Ex.diameter 8.5cm
 
 <p>Wiring</p>
+Micro-Lipo Charger for LiPoly Batt with USB Type C Jack to Arduino Nano.
+Micro-Lipo Charger for LiPoly Batt with USB Type C Jack to LiPolyBattery.
+Micro-Lipo Charger for LiPoly Batt with USB Type C Jack to Ring Led.
+Arduino Nano to Ring Led.
+
 <p>Power</p>
 
  - USBC Charger
