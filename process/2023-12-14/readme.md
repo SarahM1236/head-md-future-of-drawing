@@ -10,6 +10,7 @@
  - Narges thinks the interaction is missing. The palette color should be more unexpected, not just a column of color that you can find on a website. 
  - Adam's Idea : Maybe the colors you catch can draw something with A.I ?</p>
  <p>Second part of the day :
+ 
  - They prefer the short handle to use
  - Not clear that they have to do a specifique mouvement to catch the color.
  - The sound is better than the vibration (need 3 sounds : 1 : for the searching part. 2 : For the climax (when you are at the right spot). 3 : When you catch the color).
