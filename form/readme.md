@@ -20,5 +20,5 @@
  <p>
 Material
 
-- Wood (placage bois/Contreplaqué de bouleau aviation, flexible)
+- Wood for all the shape (placage bois/Contreplaqué de bouleau aviation, flexible)
 </p>
