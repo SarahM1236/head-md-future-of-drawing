@@ -1,6 +1,7 @@
 #include <Adafruit_NeoPixel.h>
+#include <Arduino_LSM9DS1.h>
 
-#define PIN            6  // Définissez le numéro de broche auquel est connecté le Data-In de la Neopixel Ring
+#define PIN            3  // Définissez le numéro de broche auquel est connecté le Data-In de la Neopixel Ring
 #define NUMPIXELS      24 // Définissez le nombre de pixels dans votre Neopixel Ring
 
 Adafruit_NeoPixel pixels = Adafruit_NeoPixel(NUMPIXELS, PIN, NEO_GRB + NEO_KHZ800);
