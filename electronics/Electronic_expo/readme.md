@@ -1,7 +1,7 @@
 # Schema Technique
 
 
-![Schema Technique](/electronics/Electronic_expo/Schema_electronique.jpg)
+![Schema Technique](/electronics/Electronic_expo/Schéma_Technique.jpg)
 ![Deuxième Schema Technique](/electronics/Electronic_expo/Schema_electronique_2.jpg)
 
 
